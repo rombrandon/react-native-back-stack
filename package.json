@@ -1,0 +1,22 @@
+{
+  "name": "react-native-back-stack",
+  "version": "0.0.1",
+  "description": "Android后退事件总监听器，堆栈模式 先入后执行",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rombrandon/react-native-back-stack.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Brandon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rombrandon/react-native-back-stack/issues"
+  },
+  "homepage": "https://github.com/rombrandon/react-native-back-stack#readme"
+}
